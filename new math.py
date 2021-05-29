@@ -10,4 +10,4 @@ def multiply(x,y):
     return x*y;
 #divide implemented
 def divide(x,y):
-    pass
+    return x/y;  # Bug123
